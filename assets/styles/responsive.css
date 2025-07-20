@@ -18,6 +18,9 @@
 }
 /* responsive 768px = 48rem  */
 @media screen and (max-width:48rem) {
+    html{
+        font-size: 70%;
+    }
 
     .menu{
         display: block;
@@ -46,11 +49,19 @@
         place-items: center;
         border: none;
     }
+
+    .products{
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
 /* responsive 576px = 36rem  */
 @media screen and (max-width:36rem) {
     html{
         font-size: 60%;
+    }
+
+    .products{
+        grid-template-columns: repeat(1, 1fr);
     }
     
 }
