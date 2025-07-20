@@ -1,0 +1,45 @@
+/* responsive 1200px = 75rem  */
+@media screen and (max-width:75rem) {
+    header{
+        width: 90%;
+    }
+    
+}
+
+
+/* responsive 1024px = 64rem  */
+@media screen and (max-width:64rem) {
+
+    html{
+        font-size: 80%;
+    }
+}
+/* responsive 768px = 48rem  */
+@media screen and (max-width:48rem) {
+
+    .menu{
+        display: block;
+    }
+
+    nav ul {
+        display: none;
+    }
+    
+    .hero{
+        flex-direction: column
+    }
+
+    .hero-content{
+        order: 2;
+        text-align: center ;
+    }
+    .hero-image{
+        background-position: center;
+        text-align: center;
+    }
+}
+/* responsive 576px = 36rem  */
+@media screen and (max-width:36rem) {
+    
+    
+}

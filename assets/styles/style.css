@@ -63,6 +63,13 @@ li a i{
     font-size: 1.5rem;
 }
 
+.menu{
+    display: none;
+}
+.menu i{
+    font-size: 24px;
+}
+
 /* hero section  */
 .hero{
     margin-top: 3rem;
