@@ -3,7 +3,9 @@
     header{
         width: 90%;
     }
-    
+    main{
+        max-width: 90%;
+    }
 }
 
 
@@ -37,9 +39,18 @@
         background-position: center;
         text-align: center;
     }
+
+    .sponsor{
+        grid-template-columns: repeat(4, 1fr);
+        gap: 2rem;
+        place-items: center;
+        border: none;
+    }
 }
 /* responsive 576px = 36rem  */
 @media screen and (max-width:36rem) {
-    
+    html{
+        font-size: 60%;
+    }
     
 }
