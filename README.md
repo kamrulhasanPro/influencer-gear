@@ -1,4 +1,4 @@
-| Feature        | Description            |
-| -------------- | ---------------------- |
-| 🌐 Live Demo   | [Visit Now](https://kamrulhasan7.github.io/influencer-gear/)         |
-| 🚀 Built With  | HTML, CSS  |
+| Feature       | Description                                                    |
+| ------------- | -------------------------------------------------------------- |
+| 🌐 Live Demo  | [Visit Now](https://kamrulhasanPro.github.io/influencer-gear/) |
+| 🚀 Built With | HTML, CSS                                                      |
